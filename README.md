@@ -38,7 +38,7 @@ This dashboard provides a consolidated view of business performance, helping sta
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Sales Analysis Dashboard](images/superstore-dashboard.png)
+![Superstore Sales Analysis Dashboard](iSupermarket_Sales_Dashboard/blob/main/Supermarket%20Sales%20Dashboard.png)
 
 *To display the preview on GitHub, save your dashboard screenshot as `superstore-dashboard.png` inside an `images` folder in the repository.*
 
